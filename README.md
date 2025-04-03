@@ -1,6 +1,6 @@
 Projet My_Twitter
 
-Collaboration entre Tom, Ryad, Mathéo et Pavel.
+Collaboration entre 4 étudiants d'Epitech.
 
 
 Lancer le serveur PHP dans le dossier /public:
@@ -16,6 +16,3 @@ Pour s'assuré du bon fonctionement des messages de la database :
 -> dans le mysql >  **SOURCE ./config/common_database.sql** pour rafraichir la bd a 0.
 ->         mysql >  **SOURCE ./config/insert.sql** pour ajouter les Inserts.  
 -- Si vous souhaitez modifié les inserts pour rajouté un tweet ou autre il faut rafraichir la db et les inserts.
-
-Cordialement, 
-Ratheo Mitou.
