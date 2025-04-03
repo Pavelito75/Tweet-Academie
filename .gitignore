@@ -1,6 +1,0 @@
-/node_modules
-/package-lock.json
-# /config
-/trash
-/public/css/output.css
-.DS_Store
